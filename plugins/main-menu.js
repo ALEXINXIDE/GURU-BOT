@@ -618,75 +618,75 @@ import {
     const choice = m.text.trim();
     
     if (choice === "1") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://cdn.jsdelivr.net/gh/ALEXINXIDE/GURU-BOT@main/Guru.jpg' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://cdn.jsdelivr.net/gh/ALEXINXIDE/GURU-BOT@main/k.jpg' },
         caption: botmenu
       }, { quoted:fcontact });
       } else if (choice === "2") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://cdn.jsdelivr.net/gh/ALEXINXIDE/GURU-BOT@main/Guru.jpg' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://cdn.jsdelivr.net/gh/ALEXINXIDE/GURU-BOT@main/k.jpg' },
         caption: ownermenu
       }, { quoted:fcontact });
       } else if (choice === "3") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://cdn.jsdelivr.net/gh/ALEXINXIDE/GURU-BOT@main/Guru.jpg' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://cdn.jsdelivr.net/gh/ALEXINXIDE/GURU-BOT@main/k.jpg' },
         caption: groupmenu
       }, { quoted:fcontact });
       } else if (choice === "4") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://cdn.jsdelivr.net/gh/ALEXINXIDE/GURU-BOT@main/Guru.jpg' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://cdn.jsdelivr.net/gh/ALEXINXIDE/GURU-BOT@main/k.jpg' },
         caption: funmenu
       }, { quoted:fcontact });
       } else if (choice === "5") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://cdn.jsdelivr.net/gh/ALEXINXIDE/GURU-BOT@main/Guru.jpg' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://cdn.jsdelivr.net/gh/ALEXINXIDE/GURU-BOT@main/k.jpg' },
         caption: reactmenu
       }, { quoted:fcontact });
       } else if (choice === "6") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://cdn.jsdelivr.net/gh/ALEXINXIDE/GURU-BOT@main/Guru.jpg' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://cdn.jsdelivr.net/gh/ALEXINXIDE/GURU-BOT@main/k.jpg' },
         caption: dlmenu
       }, { quoted:fcontact });
       } else if (choice === "7") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://cdn.jsdelivr.net/gh/ALEXINXIDE/GURU-BOT@main/Guru.jpg' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://cdn.jsdelivr.net/gh/ALEXINXIDE/GURU-BOT@main/k.jpg' },
         caption: groupmenu
       }, { quoted:fcontact });
       } else if (choice === "8") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://cdn.jsdelivr.net/gh/ALEXINXIDE/GURU-BOT@main/Guru.jpg' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://cdn.jsdelivr.net/gh/ALEXINXIDE/GURU-BOT@main/k.jpg' },
         caption: logomenu
       }, { quoted:fcontact });
       } else if (choice === "9") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://cdn.jsdelivr.net/gh/ALEXINXIDE/GURU-BOT@main/Guru.jpg' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://cdn.jsdelivr.net/gh/ALEXINXIDE/GURU-BOT@main/k.jpg' },
         caption: stickermenu
       }, { quoted:fcontact });
       } else if (choice === "10") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://cdn.jsdelivr.net/gh/ALEXINXIDE/GURU-BOT@main/Guru.jpg' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://cdn.jsdelivr.net/gh/ALEXINXIDE/GURU-BOT@main/k.jpg' },
         caption: audiomenu
       }, { quoted:fcontact });
       } else if (choice === "11") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://cdn.jsdelivr.net/gh/ALEXINXIDE/GURU-BOT@main/Guru.jpg' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://cdn.jsdelivr.net/gh/ALEXINXIDE/GURU-BOT@main/k.jpg' },
         caption: newsmenu
       }, { quoted:fcontact });
       } else if (choice === "12") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://cdn.jsdelivr.net/gh/ALEXINXIDE/GURU-BOT@main/Guru.jpg' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://cdn.jsdelivr.net/gh/ALEXINXIDE/GURU-BOT@main/k.jpg' },
         caption: economy
       }, { quoted:fcontact });
       } else if (choice === "13") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://cdn.jsdelivr.net/gh/ALEXINXIDE/GURU-BOT@main/Guru.jpg' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://cdn.jsdelivr.net/gh/ALEXINXIDE/GURU-BOT@main/k.jpg' },
         caption: animemenu
       }, { quoted:fcontact });
       } else if (choice === "14") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://cdn.jsdelivr.net/gh/ALEXINXIDE/GURU-BOT@main/Guru.jpg' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://cdn.jsdelivr.net/gh/ALEXINXIDE/GURU-BOT@main/k.jpg' },
         caption: nsfwmenu
       }, { quoted:fcontact });
       } else if (choice === "15") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://cdn.jsdelivr.net/gh/ALEXINXIDE/GURU-BOT@main/Guru.jpg' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://cdn.jsdelivr.net/gh/ALEXINXIDE/GURU-BOT@main/k.jpg' },
         caption: toolsmenu
       }, { quoted:fcontact });
       } else if (choice === "16") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://cdn.jsdelivr.net/gh/ALEXINXIDE/GURU-BOT@main/Guru.jpg' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://cdn.jsdelivr.net/gh/ALEXINXIDE/GURU-BOT@main/k.jpg' },
         caption: Aimenu
       }, { quoted:fcontact });
       } else if (choice === "17") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://cdn.jsdelivr.net/gh/ALEXINXIDE/GURU-BOT@main/Guru.jpg' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://cdn.jsdelivr.net/gh/ALEXINXIDE/GURU-BOT@main/k.jpg' },
         caption: religionmenu
       }, { quoted:fcontact });
       } else if (choice === "18") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://cdn.jsdelivr.net/gh/ALEXINXIDE/GURU-BOT@main/Guru.jpg' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://cdn.jsdelivr.net/gh/ALEXINXIDE/GURU-BOT@main/k.jpg' },
         caption: pluginmenu
       }, { quoted:fcontact });
       } else {
